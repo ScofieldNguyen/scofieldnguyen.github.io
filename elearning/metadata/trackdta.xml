@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tracking-metadata generator="Presenter ver 7.0" version="1.0">
+	<objective id="Quiz10004" max-score="40" passing-score="32" min-score="0">
+		<name>Quiz</name>
+		<interactions>
+			<interaction id="Interaction10068" QUniqId="10068" type="fill-in" score="10" correct-response="{}">
+				<title>Nam châm nào cũng có hai &lt;1&gt;Khi để tự do, 
+hướng bắc được gọi là 
+Cực luôn chỉ về 
+&lt;2&gt; cực luôn chỉ về hướng nam gọi là &lt;3&gt; 
+
+</title>
+				<responses>
+					<response id="1">
+						<option id="1">cực bắc</option>
+						<option id="2">cực nam</option>
+						<option id="3">từ cực</option>
+					</response>
+					<response id="2">
+						<option id="1">cực bắc</option>
+						<option id="2">cực nam</option>
+						<option id="3">từ cực</option>
+					</response>
+					<response id="3">
+						<option id="1">cực bắc</option>
+						<option id="2">cực nam</option>
+						<option id="3">từ cực</option>
+					</response>
+				</responses>
+			</interaction>
+			<interaction id="Interaction10094" QUniqId="10094" type="fill-in" score="10" correct-response="{}">
+				<title>Khi đưa từ cực của hai nam châm lại gần nhau + Chúng 
+                                                 nếu các cực 
+&lt;1&gt;cùng tên. 
++ Chúng &lt;2&gt;cực khác tên. 
+ nếu các 
+</title>
+				<responses>
+					<response id="1">
+						<option id="1">hút nhau</option>
+						<option id="2">đẩy nhau</option>
+					</response>
+					<response id="2">
+						<option id="1">hút nhau</option>
+						<option id="2">đẩy nhau</option>
+					</response>
+				</responses>
+			</interaction>
+			<interaction id="Interaction10019" QUniqId="10019" type="true-false" score="10" correct-response="false">
+				<name>True/False</name>
+				<title> Những nam châm luôn có từ tính được gọi là nam châm vĩnh cửu.</title>
+				<responses>
+					<response id="false">Đúng </response>
+					<response id="false">Sai </response>
+				</responses>
+			</interaction>
+			<interaction id="Interaction10034" QUniqId="10034" type="choice" score="10" correct-response="C">
+				<name>Multiple choice</name>
+				<title> Nam châm không hút được kim loại nào?</title>
+				<responses>
+					<response id="A">Sắt </response>
+					<response id="B">Thép </response>
+					<response id="C">Đồng </response>
+					<response id="D">Niken </response>
+				</responses>
+			</interaction>
+		</interactions>
+	</objective>
+</tracking-metadata>
